@@ -1,0 +1,12 @@
+[submodule "img4lib"]
+	path = img4lib
+	url = https://github.com/xerub/img4lib.git
+[submodule "partialZipBrowser"]
+	path = partialZipBrowser
+	url = https://github.com/tihmstar/partialZipBrowser.git
+[submodule "libfragmentzip"]
+	path = libfragmentzip
+	url = https://github.com/tihmstar/libfragmentzip.git
+[submodule "ipwndfu"]
+	path = ipwndfu
+	url = https://github.com/axi0mX/ipwndfu

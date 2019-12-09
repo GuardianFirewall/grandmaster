@@ -1,0 +1,11 @@
+# cursed .DS_Store 
+.DS_Store
+# ignore .pyc 
+*.pyc
+# .firmwares 
+.firmwares
+# pycache
+__pycache__/
+# .im4p and .decrypted
+*.im4p
+*.decrypted
